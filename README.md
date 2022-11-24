@@ -33,3 +33,5 @@ The project will use a variety of data sources, including
   - Date of birth
   - Purchase history
 
+![History Sales Vs Resident Income](https://github.com/KEVIN-VN642/Power-BI_Market-Analysis/blob/master/Sales%20Vs%20Income%20Relationship.png)
+
