@@ -32,6 +32,9 @@ The project will use a variety of data sources, including
   - Location
   - Date of birth
   - Purchase history
-
+# Summary Results
+### 1. Sales and Income Analysis
 ![History Sales Vs Resident Income](https://github.com/KEVIN-VN642/Power-BI_Market-Analysis/blob/master/Sales%20Vs%20Income%20Relationship.png)
+### 2. Product Recommendation
+![Product Recommendation](https://github.com/KEVIN-VN642/Power-BI_Market-Analysis/blob/master/Product%20Recommendation.png) 
 
