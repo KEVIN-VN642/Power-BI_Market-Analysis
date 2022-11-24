@@ -37,4 +37,6 @@ The project will use a variety of data sources, including
 ![History Sales Vs Resident Income](https://github.com/KEVIN-VN642/Power-BI_Market-Analysis/blob/master/Sales%20Vs%20Income%20Relationship.png)
 ### 2. Product Recommendation
 ![Product Recommendation](https://github.com/KEVIN-VN642/Power-BI_Market-Analysis/blob/master/Product%20Recommendation.png) 
+### 3. Product Analysis
+![Product Analysis](https://github.com/KEVIN-VN642/Power-BI_Market-Analysis/blob/master/Product%20Analysis.png)
 
