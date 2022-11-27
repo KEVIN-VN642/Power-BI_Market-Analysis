@@ -10,11 +10,7 @@ We will conduct an analysis to determine the best product to advertise to each c
 
 # Project Environment and Data Sources
 
-All work for the project will be completed using the Microsoft Power BI desktop application.
-
-For viewing the raw spreadsheet data outside of that platform, students will need to use Google Sheets or Microsoft Excel.
-
-The project will use a variety of data sources, including
+All work for the project will be completed using the Microsoft Power BI desktop application. For viewing the raw spreadsheet data outside of that platform, you will need to use Google Sheets or Microsoft Excel. The project will use a variety of data sources, including
 
 ## US Census Bureau
   - Average income
